@@ -51,8 +51,11 @@ These datasets include information on test scores, absences, behavior, demograph
 
 ## 📄 License
 
-This project is for educational and portfolio purposes only. Dataset attribution belongs to [Pragmatic Works Training Datasets](https://github.com/PragmaticWorksTraining/Datasets).
+This project is for educational and portfolio purposes only. Dataset attribution belongs to [Pragmatic Works Training Datasets](<img width="2556" height="1533" alt="Screenshot 2025-07-15 203814" src="https://github.com/user-attachments/assets/b91f7153-9cc2-44f9-b9e4-1c1ba6a92596" />
+https://github.com/PragmaticWorksTraining/Datasets).
 
 ---
 
 Feel free to ⭐ this repository if you found it helpful or insightful!
+<img width="2542" height="1531" alt="Screenshot 2025-07-15 203754" src="https://github.com/user-attachments/assets/cafc4fdc-fa2a-4c04-b4ba-dec18a2d5bfe" />
+<img width="2559" height="1532" alt="Screenshot 2025-07-15 203741" src="https://github.com/user-attachments/assets/61722234-18c6-447c-b98a-19937d93ee6b" />
